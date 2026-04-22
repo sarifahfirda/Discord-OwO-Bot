@@ -789,7 +789,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `angel`
 - **Aliases:** `agl`
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** A pair of Angel wings to take you higher than the sky a placed called Heaven. This command was created by ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -813,7 +813,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `bat`
 - **Aliases:** *(none)*
-- **Description:** “I’m batty over you!”
+- **Description:** “I’m batty over you!” This command was created by ?665648471340220430?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -822,7 +822,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `bear`
 - **Aliases:** *(none)*
-- **Description:** Give a bear to someone! You can only gain one if you receive it!
+- **Description:** Give a bear to someone! You can only gain one if you receive it! This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -831,7 +831,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `bee`
 - **Aliases:** `honey`
-- **Description:** A busy buzzing bee that loves flowers will bring you sweet honey. Will you will bee mine, I think I've found my honey.
+- **Description:** A busy buzzing bee that loves flowers will bring you sweet honey. Will you will bee mine, I think I've found my honey. This command was created by ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -849,7 +849,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `birthstone`
 - **Aliases:** `bstone`, `bsn`
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** The passage of time is explored through the journey of life. A quest to find the precious gemstones that represents one's birth. Months may pass and possibly a life time to complete. Unlock two hidden gemstones, moonstone & sunstone once you have completed the twelve; Garnet, Amethyst, Aquamarine, Diamond, Emerald, Pearl, Ruby, Peridot, Sapphire, Opal, Citrine, Topaz. This command was created by ?184587051943985152?, and ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -857,7 +857,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `blinkbear`
 - **Aliases:** *(none)*
-- **Description:** Let chill with music K pop Blackpink ❤️
+- **Description:** Let chill with music K pop Blackpink ❤️ This command was created by ?529452621862273035?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -866,7 +866,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `boba`
 - **Aliases:** *(none)*
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** This custom item can only be given by the owner of this command. This command was created by ?863101441697775616?, and ?473546331689058334?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -882,7 +882,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `booger`
 - **Aliases:** *(none)*
-- **Description:** Receive a naughty kitty named Booger!
+- **Description:** Receive a naughty kitty named Booger! This command was created by ?665648471340220430?, and ?416987916888440832?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -923,7 +923,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `calcifer`
 - **Aliases:** `calcifer`, `cal`
-- **Description:** *(none)*
+- **Description:** This command was created by ?665648471340220430?, and ?228381909678292992?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -941,7 +941,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `carlspider`
 - **Aliases:** *(none)*
-- **Description:** You can only receive this from the owner
+- **Description:** You can only receive this from the owner This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -966,7 +966,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `cloud`
 - **Aliases:** *(none)*
-- **Description:** Soft mist of cotton gentle and sweet, combine me with thunder and I'll be your worst nightmare.
+- **Description:** Soft mist of cotton gentle and sweet, combine me with thunder and I'll be your worst nightmare. This command was created by ?692146302284202134?, and ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -976,7 +976,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `clover`
 - **Aliases:** *(none)*
-- **Description:** Send one clover a day and give somebody some luck to start off their day with! &lt;3
+- **Description:** Send one clover a day and give somebody some luck to start off their day with! &lt;3 This command was created by ?692146302284202134?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1001,7 +1001,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `corgi`
 - **Aliases:** `doggo`
-- **Description:** oooo is that a corgi, what a qt whoever gave you that doggo really trusts you "corgi no corgi"
+- **Description:** oooo is that a corgi, what a qt whoever gave you that doggo really trusts you "corgi no corgi" This command was created by ?486604819545587723?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1010,7 +1010,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `crossfox`
 - **Aliases:** `crossfox`, `melanisticfox`
-- **Description:** The cross fox is a variant of the red fox which has a long dark stripe running down its back, intersecting another stripe to form a cross over the shoulders. Due to a rare condition called melanism, the commonly red fur comes with some dark stripe.
+- **Description:** The cross fox is a variant of the red fox which has a long dark stripe running down its back, intersecting another stripe to form a cross over the shoulders. Due to a rare condition called melanism, the commonly red fur comes with some dark stripe. This command was created by ?384202884553768961?, and ?778204442411008021?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1036,7 +1036,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `curly`
 - **Aliases:** *(none)*
-- **Description:** Jerome Lester Horwitz, better known by his stage name Curly Howard, was an American comedian and actor. He was well known for his high-pitched voice and vocal expressions ("nyuk-nyuk-nyuk!", "woob-woob-woob!", "soitenly!", "I'm a victim of soikemstance", and barking like a dog. He was the younger brother of Stooges Moe Howard and Shemp Howard. Film critics have cited Curly as the most popular member of the team. His childlike mannerisms and natural comedic charm made him a hit with audiences, particularly children and women. (Combine with moe, shemp, and larry, to make a 3stooges. Use the command: owo curly nyuk.)
+- **Description:** Jerome Lester Horwitz, better known by his stage name Curly Howard, was an American comedian and actor. He was well known for his high-pitched voice and vocal expressions ("nyuk-nyuk-nyuk!", "woob-woob-woob!", "soitenly!", "I'm a victim of soikemstance", and barking like a dog. He was the younger brother of Stooges Moe Howard and Shemp Howard. Film critics have cited Curly as the most popular member of the team. His childlike mannerisms and natural comedic charm made him a hit with audiences, particularly children and women. (Combine with moe, shemp, and larry, to make a 3stooges. Use the command: owo curly nyuk.) This command was created by ?384202884553768961?, and ?778204442411008021?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1046,7 +1046,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `darwinsfox`
 - **Aliases:** *(none)*
-- **Description:** Darwin's Fox (Lycalpoex fulvipes), also known as Zorro Chilote, is an endangered canid. It is not a true fox.
+- **Description:** Darwin's Fox (Lycalpoex fulvipes), also known as Zorro Chilote, is an endangered canid. It is not a true fox. This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1056,7 +1056,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `dayang3`
 - **Aliases:** `dayang`, `cinta`, `indonesia`
-- **Description:** Hallo...!! I am dayang🌷 from Indonesia When you have 𝖈𝖎𝖓𝖙𝖆, 𝖐𝖆𝖘𝖎𝖍 and 𝖘𝖆𝖞𝖆𝖓𝖌, you can get my 𝖇𝖚𝖓𝖌𝖆 as a present from me...♡ ♧ OwOd cinta ♧ OwOd kasih ♧ OwOd sayang ♧ ♧ find me in .gg/owobot & .gg/hns
+- **Description:** Hallo...!! I am dayang🌷 from Indonesia When you have 𝖈𝖎𝖓𝖙𝖆, 𝖐𝖆𝖘𝖎𝖍 and 𝖘𝖆𝖞𝖆𝖓𝖌, you can get my 𝖇𝖚𝖓𝖌𝖆 as a present from me...♡ ♧ OwOd cinta ♧ OwOd kasih ♧ OwOd sayang ♧ ♧ find me in .gg/owobot & .gg/hns This command was created by ?778204442411008021?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1074,7 +1074,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `des`
 - **Aliases:** `kasih`
-- **Description:** Dire Exchange Service ツ is a growing community revolved around gaming bots such as OwO, AniGame, Karuta and many more; and it is a place for all to grind. This command was created by .greywolf., direthedire, and dayang.
+- **Description:** Dire Exchange Service ツ is a growing community revolved around gaming bots such as OwO, AniGame, Karuta and many more; and it is a place for all to grind. This command was created by .greywolf., direthedire, and dayang. This command was created by ?384202884553768961?, ?707939636835516457?, and ?778204442411008021?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1083,7 +1083,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `devil`
 - **Aliases:** `dvl`
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** A pair of Devil wings to take you to the underworld a place called Hell. This command was created by ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1091,7 +1091,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `dg-hug`
 - **Aliases:** `sayang`
-- **Description:** A hug is meant to show someone you care and that you are there for them. Always keep the spirit up; life is short - enjoy life to the fullest.
+- **Description:** A hug is meant to show someone you care and that you are there for them. Always keep the spirit up; life is short - enjoy life to the fullest. This command was created by ?384202884553768961?, and ?778204442411008021?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1100,7 +1100,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `dhole`
 - **Aliases:** *(none)*
-- **Description:** Dhole (Cuon alpinus), also known as Asian wild dog, Asiatic wild dog, Indian wild dog, whistling dog, red dog, and mountain wolf.
+- **Description:** Dhole (Cuon alpinus), also known as Asian wild dog, Asiatic wild dog, Indian wild dog, whistling dog, red dog, and mountain wolf. This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1118,7 +1118,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `doll`
 - **Aliases:** *(none)*
-- **Description:** Give a headless doll to a friend!
+- **Description:** Give a headless doll to a friend! This command was created by ?665648471340220430?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1143,7 +1143,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `dtn`
 - **Aliases:** `destiny`
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** Destined to cross paths but never to meet. In this lifetime, I loved your soul before I could touch you. Unable to change this time line, where we're not destined to complete our love story. In this lifetime, this destiny, you're my last love, my one and only love. But these promises are just sweet lies therefore, I owe you and will love you onto the next life to complete our story. This command was created by ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1159,7 +1159,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `egg`
 - **Aliases:** *(none)*
-- **Description:** Here, have an egg! use wisely....
+- **Description:** Here, have an egg! use wisely.... This command was created by ?204118895106195456?, and ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1168,7 +1168,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `ewolf`
 - **Aliases:** *(none)*
-- **Description:** Ethiopian wolf, also known as the Simien jackal or Simien fox. It is one of the world's rarest canids; there are less than 500 Ethiopian wolves left in the world. The Ethiopian wolf has been considered rare since it was first recorded scientifically in 1835.
+- **Description:** Ethiopian wolf, also known as the Simien jackal or Simien fox. It is one of the world's rarest canids; there are less than 500 Ethiopian wolves left in the world. The Ethiopian wolf has been considered rare since it was first recorded scientifically in 1835. This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1185,7 +1185,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `fear`
 - **Aliases:** `nommy`
-- **Description:** What do you fear? fears can alarming, but we all overcome them... unless it's me noming you I'd nom you if I could\"
+- **Description:** What do you fear? fears can alarming, but we all overcome them... unless it's me noming you I'd nom you if I could\" This command was created by ?486604819545587723?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1195,7 +1195,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `flame`
 - **Aliases:** `flm`
-- **Description:** From the deepest depths of the underworld comes a flame like no other. Do not be fooled by its beauty, although it shines like the ocean blue. One touch and your soul will leave you eternally. *dedicated/inspired by macchiato and estee*
+- **Description:** From the deepest depths of the underworld comes a flame like no other. Do not be fooled by its beauty, although it shines like the ocean blue. One touch and your soul will leave you eternally. *dedicated/inspired by macchiato and estee* This command was created by ?640563808884228126?, ?863101441697775616?, and ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1204,7 +1204,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `friend`
 - **Aliases:** *(none)*
-- **Description:** A friend is someone who is always there for you in the good times and the bad. A friend is loyal. A friend will never judge you and always accepts you for who you are. The word "friend" comes from Old English "frēond", which means "to love" and "to honor". REQUIREMENT to receive is to show kindness to other OwO players.
+- **Description:** A friend is someone who is always there for you in the good times and the bad. A friend is loyal. A friend will never judge you and always accepts you for who you are. The word "friend" comes from Old English "frēond", which means "to love" and "to honor". REQUIREMENT to receive is to show kindness to other OwO players. This command was created by ?384202884553768961?, and ?778204442411008021?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1221,7 +1221,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `galikat`
 - **Aliases:** *(none)*
-- **Description:** All aboard the unsinkable cake haven, the HMS GaliKat. The SHIP that launched a thousand owos…..!
+- **Description:** All aboard the unsinkable cake haven, the HMS GaliKat. The SHIP that launched a thousand owos…..! This command was created by ?665648471340220430?, ?416987916888440832?, and ?710674986863427634?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1238,7 +1238,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `genie`
 - **Aliases:** *(none)*
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** This custom item can only be given by the owner of this command. This command was created by ?863101441697775616?, and ?667180052592721941?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1246,7 +1246,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `ghost`
 - **Aliases:** *(none)*
-- **Description:** “Boo! Did I scare you?”
+- **Description:** “Boo! Did I scare you?” This command was created by ?665648471340220430?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1255,7 +1255,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `ginseng`
 - **Aliases:** *(none)*
-- **Description:** Give two ginsengs to someone! You can only gain one if you receive it! Ginseng is the root of plants in the genus Panax, characterized by the presence of ginsenosides and gintonin, notable for its healing properties. One of the first written texts covering the use of ginseng as a medicinal herb was written in China in 196 AD.
+- **Description:** Give two ginsengs to someone! You can only gain one if you receive it! Ginseng is the root of plants in the genus Panax, characterized by the presence of ginsenosides and gintonin, notable for its healing properties. One of the first written texts covering the use of ginseng as a medicinal herb was written in China in 196 AD. This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1280,7 +1280,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `grizzly`
 - **Aliases:** *(none)*
-- **Description:** Give two grizzleys to someone! You can only gain one if you receive it!
+- **Description:** Give two grizzleys to someone! You can only gain one if you receive it! This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1313,7 +1313,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `kfire`
 - **Aliases:** *(none)*
-- **Description:** K-fire server is a server that made by Kurdistan. This server is a place for you to play some bot games such as OwO, Anigame, Tatsu, etc. This collectible is only given out by the creators. Nobody else can give it
+- **Description:** K-fire server is a server that made by Kurdistan. This server is a place for you to play some bot games such as OwO, Anigame, Tatsu, etc. This collectible is only given out by the creators. Nobody else can give it This command was created by ?759412813617430619?, and ?778204442411008021?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1322,7 +1322,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `king`
 - **Aliases:** *(none)*
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** A noble descendant of God, a royal ruler over mankind. Behind ever King is a powerful Queen. The king of spades x "Guards take him away!" This command was created by ?282666590565171210?, and ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1330,7 +1330,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `kitty`
 - **Aliases:** *(none)*
-- **Description:** A litte sweet cuddly fur ball to snuggle up with.
+- **Description:** A litte sweet cuddly fur ball to snuggle up with. This command was created by ?460987842961866762?, and ?777641801212493826?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1340,7 +1340,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `koi`
 - **Aliases:** `koi`, `lotus`
-- **Description:** Happy OwO Anniversary and many more to come. Our friendship is beautiful and we balance like the Yin & Yang just like the two koi fish representing the duality of life.
+- **Description:** Happy OwO Anniversary and many more to come. Our friendship is beautiful and we balance like the Yin & Yang just like the two koi fish representing the duality of life. This command was created by ?460987842961866762?, and ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1350,7 +1350,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `larry`
 - **Aliases:** *(none)*
-- **Description:** Louis Feinberg, better known by his stage name Larry Fine, was an American comedian, actor, and musician. In his early childhood, Fine's arm was accidentally burned with acid that his father used to test jewelry for its gold content. Fine's parents later gave him violin lessons to help strengthen the damaged muscles in his forearm. He became so proficient in it that his parents wanted to send him to a European music conservatory, but the plan was thwarted by the outbreak of World War I. To further strengthen his damaged arm, Fine took up boxing in his teens, winning one professional bout. (Combine with moe, shemp, and curly to make a 3stooges. See the curly help for more info.)
+- **Description:** Louis Feinberg, better known by his stage name Larry Fine, was an American comedian, actor, and musician. In his early childhood, Fine's arm was accidentally burned with acid that his father used to test jewelry for its gold content. Fine's parents later gave him violin lessons to help strengthen the damaged muscles in his forearm. He became so proficient in it that his parents wanted to send him to a European music conservatory, but the plan was thwarted by the outbreak of World War I. To further strengthen his damaged arm, Fine took up boxing in his teens, winning one professional bout. (Combine with moe, shemp, and curly to make a 3stooges. See the curly help for more info.) This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1360,7 +1360,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `latte`
 - **Aliases:** *(none)*
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** This custom item can only be given by the owner of this command. This command was created by ?863101441697775616?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1368,7 +1368,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `lemon`
 - **Aliases:** `lemonade`, `lmn`
-- **Description:** When life gives you lemons, ill give you lemon-aid. Lemon tell ya, the zest chance to get lemons is through quest help. Owo lemon squeeze to make your refreshing lemonade.
+- **Description:** When life gives you lemons, ill give you lemon-aid. Lemon tell ya, the zest chance to get lemons is through quest help. Owo lemon squeeze to make your refreshing lemonade. This command was created by ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1386,7 +1386,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `lilbee`
 - **Aliases:** `lilbee`
-- **Description:** Created by Lil and Bee to celebrate 1000 days of Owo marriage!
+- **Description:** Created by Lil and Bee to celebrate 1000 days of Owo marriage! This command was created by ?635873165758824449?, and ?423166705477353472?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1412,7 +1412,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `lovenote`
 - **Aliases:** `ln`
-- **Description:** Receive both halves of the two love notes to complete your love letter.
+- **Description:** Receive both halves of the two love notes to complete your love letter. This command was created by ?692146302284202134?, and ?160095846703038466?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1422,7 +1422,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `luv`
 - **Aliases:** `luv`, `lovey`
-- **Description:** everybody knows something I don't and I wonder how to keep a good thing going "there was a time I would die just to be who you liked" ps: a special thank you to A I E D, xnurag, and gamer for the percentage rates ;)
+- **Description:** everybody knows something I don't and I wonder how to keep a good thing going "there was a time I would die just to be who you liked" ps: a special thank you to A I E D, xnurag, and gamer for the percentage rates ;) This command was created by ?486604819545587723?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1432,7 +1432,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `lxv`
 - **Aliases:** *(none)*
-- **Description:** Make sure to give Hedge some love, and he might bring you a gift! Only given out in lovesick. A server for OwO, anigame and ERPG grinders! .gg/lxv
+- **Description:** Make sure to give Hedge some love, and he might bring you a gift! Only given out in lovesick. A server for OwO, anigame and ERPG grinders! .gg/lxv This command was created by ?412812867348463636?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1442,7 +1442,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `magic`
 - **Aliases:** *(none)*
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** Give some Black Magic to a friend! This command was created by ?145541256779530240?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1450,7 +1450,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `magoo`
 - **Aliases:** *(none)*
-- **Description:** Mr. Magoo is a fictional cartoon character voiced by Jim Backus. Mr. Magoo is a wealthy elderly retiree who gets into comical situations as a result of his extreme near-sightedness, compounded by his stubborn refusal to admit the problem.
+- **Description:** Mr. Magoo is a fictional cartoon character voiced by Jim Backus. Mr. Magoo is a wealthy elderly retiree who gets into comical situations as a result of his extreme near-sightedness, compounded by his stubborn refusal to admit the problem. This command was created by ?384202884553768961?, and ?778204442411008021?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1460,7 +1460,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `martini`
 - **Aliases:** *(none)*
-- **Description:** Give a martini to a friend!
+- **Description:** Give a martini to a friend! This command was created by ?665648471340220430?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1485,7 +1485,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `mochi`
 - **Aliases:** *(none)*
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** A bite size delectable snack you can’t live without. As sweet as pie, as cold as the winters breeze, nothing compares to my mochi. This command was created by ?863101441697775616?, and ?282666590565171210?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1493,7 +1493,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `moe`
 - **Aliases:** *(none)*
-- **Description:** Moses Harry Horwitz, better known by his stage name Moe Howard, was an American comedian and actor. He is best known as the leader of the Three Stooges. He loved to read, as his older brother Jack recalled: "I had many Horatio Alger books, and it was Moe's greatest pleasure to read them. This helped him in his acting career; he could memorize his lines quickly and easily. (Combine with shemp, larry, and curly to make a 3stooges. See the curly help for more info.)
+- **Description:** Moses Harry Horwitz, better known by his stage name Moe Howard, was an American comedian and actor. He is best known as the leader of the Three Stooges. He loved to read, as his older brother Jack recalled: "I had many Horatio Alger books, and it was Moe's greatest pleasure to read them. This helped him in his acting career; he could memorize his lines quickly and easily. (Combine with shemp, larry, and curly to make a 3stooges. See the curly help for more info.) This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1503,7 +1503,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `moon`
 - **Aliases:** *(none)*
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** I miss you like the moon misses the sun, forever separated by thousands of miles for thousands of years. Destined to chase it until the end of time. The sun and moon misses each other without any hope of meeting ever. Love by the moon This command was created by ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1511,7 +1511,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `music`
 - **Aliases:** `msc`
-- **Description:** ♪♫ I wish you were here to compose another melody, I promise when I'm missing you, I'll play our symphony, You are my melody and I am your symphony ♬♩
+- **Description:** ♪♫ I wish you were here to compose another melody, I promise when I'm missing you, I'll play our symphony, You are my melody and I am your symphony ♬♩ This command was created by ?578335497793961993?, and ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1536,7 +1536,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `obwspecial`
 - **Aliases:** `appreciate`
-- **Description:** Exclusive collectible created for the OBW community on the collaboration with amazing OwO Bot Wiki discord members. Special thanks to Sliverme, Frosty_, Pandaddy, tinsetia, StunDra, Blue, Max Verstappen fan, dayang🌷, greywolf, jean., Amada, Mal., Radiohead, Xctroy, NarutoUzumaki, theraremixedchick, Ajea, ibot, Mrukia and everyone else who contributed
+- **Description:** Exclusive collectible created for the OBW community on the collaboration with amazing OwO Bot Wiki discord members. Special thanks to Sliverme, Frosty_, Pandaddy, tinsetia, StunDra, Blue, Max Verstappen fan, dayang🌷, greywolf, jean., Amada, Mal., Radiohead, Xctroy, NarutoUzumaki, theraremixedchick, Ajea, ibot, Mrukia and everyone else who contributed This command was created by ?466629903434121228?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1545,7 +1545,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `painteddog`
 - **Aliases:** `painted-dog`
-- **Description:** African wild dog (Lycaon pictus), also called painted dog, and cape hunting dog.
+- **Description:** African wild dog (Lycaon pictus), also called painted dog, and cape hunting dog. This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1555,7 +1555,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `pancakes`
 - **Aliases:** *(none)*
-- **Description:** Give a pancake to someone! You can only gain one if you receive it!
+- **Description:** Give a pancake to someone! You can only gain one if you receive it! This command was created by ?665648471340220430?, and ?710674986863427634?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1564,7 +1564,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `panda`
 - **Aliases:** *(none)*
-- **Description:** Give two pandas to someone! You can only gain one if you receive it!
+- **Description:** Give two pandas to someone! You can only gain one if you receive it! This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1573,7 +1573,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `penguin`
 - **Aliases:** `pgn`
-- **Description:** Aptenodytes, a King penguin waddling the ice lands. A great rock collector to woo and gift you. As penguins mate for life, He can't fly away and will swim great oceans for you.
+- **Description:** Aptenodytes, a King penguin waddling the ice lands. A great rock collector to woo and gift you. As penguins mate for life, He can't fly away and will swim great oceans for you. This command was created by ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1590,7 +1590,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `pikachu`
 - **Aliases:** `pikachu`, `chu`
-- **Description:** Charmeleons are red, Wartortles are blue, If you catch my heart, I’ll be your pikachu
+- **Description:** Charmeleons are red, Wartortles are blue, If you catch my heart, I’ll be your pikachu This command was created by ?768465041489657867?, ?968621197011062804?, ?879313703990870047?, and ?969176350621589514?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1624,7 +1624,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `poison`
 - **Aliases:** *(none)*
-- **Description:** Love could be labeled poison and we'd drink it anyways. Subcommands: owo poison mix
+- **Description:** Love could be labeled poison and we'd drink it anyways. Subcommands: owo poison mix This command was created by ?665417324949405706?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1650,7 +1650,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `queen`
 - **Aliases:** *(none)*
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** A noble descendant of God, a royal ruler over mankind. Treat her like a queen and she\'ll treat you like a king. The queen of hearts x "Off with your head!" This command was created by ?282666590565171210?, and ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1658,7 +1658,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `rainbow`
 - **Aliases:** `raindrop`, `wet`, `rain`
-- **Description:** ${desc} This command can only be given out by ${ownersString}
+- **Description:** May Happiness Rain On You! May Your Sorrows Be Washed Away In The Rain… Sometimes, If You Want The Rainbow, You Gotta Put Up With The Rain! Collect 8 Raindrops to get a Rainbow! This command can only be given out by ?578335497793961993?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1666,7 +1666,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `redenvelope`
 - **Aliases:** `hongbao`, `angpow`
-- **Description:** Red envelope is small red and gold packets, containing money as a symbol of good luck. Collect 8 Red Envelopes to get a Gold!
+- **Description:** Red envelope is small red and gold packets, containing money as a symbol of good luck. Collect 8 Red Envelopes to get a Gold! This command was created by ?605994815317999635?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1676,7 +1676,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `redwolf`
 - **Aliases:** *(none)*
-- **Description:** The Red Wolf is the rarest and most endangered of all the wolf species, with less than 20 individuals left in the wild. It is listed as a Critically Endangered species, facing an extremely high risk of extinction in the wild. Extinction is generally considered to be the death of the last individual of the species. Today the only place red wolves can be found in the wild is in eastern North Carolina's Albemarle Peninsula.
+- **Description:** The Red Wolf is the rarest and most endangered of all the wolf species, with less than 20 individuals left in the wild. It is listed as a Critically Endangered species, facing an extremely high risk of extinction in the wild. Extinction is generally considered to be the death of the last individual of the species. Today the only place red wolves can be found in the wild is in eastern North Carolina's Albemarle Peninsula. This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1685,7 +1685,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `regret`
 - **Aliases:** *(none)*
-- **Description:** "same fears, same dreams"
+- **Description:** "same fears, same dreams" This command was created by ?486604819545587723?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1735,7 +1735,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `sammy`
 - **Aliases:** *(none)*
-- **Description:** Sammy is a Biewer Terrier. The Biewer Terrier is an elegant, longhaired, tri-colored terrier whose only purpose in life is to love and be loved. The Biewer was developed thru selective breeding of the Yorkshire Terrier to highlight the recessive piebald gene (to draw out the white color). The Biewer is a very hearty, athletic dog and an excellent hunter of vermin. They are lighthearted, have a childlike attitude and like to carry toys in their mouths. Biewers average 10" tall, weighing around 5 pounds, and live about 16 years.
+- **Description:** Sammy is a Biewer Terrier. The Biewer Terrier is an elegant, longhaired, tri-colored terrier whose only purpose in life is to love and be loved. The Biewer was developed thru selective breeding of the Yorkshire Terrier to highlight the recessive piebald gene (to draw out the white color). The Biewer is a very hearty, athletic dog and an excellent hunter of vermin. They are lighthearted, have a childlike attitude and like to carry toys in their mouths. Biewers average 10" tall, weighing around 5 pounds, and live about 16 years. This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1744,7 +1744,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `saturn`
 - **Aliases:** *(none)*
-- **Description:** Send a saturn to someone!
+- **Description:** Send a saturn to someone! This command was created by ?856036736970260490?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1761,7 +1761,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `shemp`
 - **Aliases:** *(none)*
-- **Description:** Samuel Horwitz, better known by his stage name Shemp Howard, was an American comedian and actor. He was called "Shemp" because "Sam" came out that way in his mother's thick Litvak accent. He is best known as the third Stooge in the Three Stooges, a role he played when the act began in the early 1920s, and again in 1946 to replace his brother Curly as the third Stooge after Curly's illness. (Combine with moe, larry, and curly to make a 3stooges. See the curly help for more info.)
+- **Description:** Samuel Horwitz, better known by his stage name Shemp Howard, was an American comedian and actor. He was called "Shemp" because "Sam" came out that way in his mother's thick Litvak accent. He is best known as the third Stooge in the Three Stooges, a role he played when the act began in the early 1920s, and again in 1946 to replace his brother Curly as the third Stooge after Curly's illness. (Combine with moe, larry, and curly to make a 3stooges. See the curly help for more info.) This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1771,7 +1771,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `shifu`
 - **Aliases:** `ufo`, `catto`
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** Hopefully these fluffy cattos make your day brighter! These collectibles are only given out by ?412812867348463636?, ?692146302284202134? and ?606142158067597332? This command was created by ?412812867348463636?, ?692146302284202134?, and ?606142158067597332?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1779,7 +1779,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `shootingstar`
 - **Aliases:** `shootingstar`, `ss`
-- **Description:** Give out a shooting star! Merge two shooting stars with \`owo shootingstar unite\`!
+- **Description:** Give out a shooting star! Merge two shooting stars with \`owo shootingstar unite\`! This command was created by ?370709798020448257?, ?412812867348463636?, ?692146302284202134?, ?417214768970203136?, and ?606142158067597332?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1797,7 +1797,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `smokeheart`
 - **Aliases:** `heart`
-- **Description:** Give two smoke hearts to someone! You can only gain one if you receive it!
+- **Description:** Give two smoke hearts to someone! You can only gain one if you receive it! This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1806,7 +1806,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `snake`
 - **Aliases:** *(none)*
-- **Description:** Give snakes to someone!
+- **Description:** Give snakes to someone! This command was created by ?380822909813391360?, and ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1824,7 +1824,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `sonic`
 - **Aliases:** *(none)*
-- **Description:** Give two sonics to someone! You can only gain one if you receive it!
+- **Description:** Give two sonics to someone! You can only gain one if you receive it! This command was created by ?384202884553768961?, and ?778204442411008021?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1833,7 +1833,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `sootsprite`
 - **Aliases:** `soot`, `sootgremlin`, `susuwatari`
-- **Description:** Normally you can’t see Soot Gremlins. But every once in awhile when you go from a bright place to a dark one, you can catch a glimpse of them….
+- **Description:** Normally you can’t see Soot Gremlins. But every once in awhile when you go from a bright place to a dark one, you can catch a glimpse of them…. This command was created by ?665648471340220430?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1842,7 +1842,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `spider`
 - **Aliases:** *(none)*
-- **Description:** Send a spider to a friend!
+- **Description:** Send a spider to a friend! This command was created by ?665648471340220430?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1851,7 +1851,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `star`
 - **Aliases:** *(none)*
-- **Description:** Star light, Star bright. First star I see tonight I wish I may, I wish I might. Have the wish, I wish tonight.
+- **Description:** Star light, Star bright. First star I see tonight I wish I may, I wish I might. Have the wish, I wish tonight. This command was created by ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1860,7 +1860,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `stitch`
 - **Aliases:** *(none)*
-- **Description:** Lilo says that "ohana means family, family means nobody gets left behind or forgotten". I hope this little alien starts to be part of your family now!
+- **Description:** Lilo says that "ohana means family, family means nobody gets left behind or forgotten". I hope this little alien starts to be part of your family now! This command was created by ?942100445105647686?, and ?638420840765063178?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1870,7 +1870,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `sun`
 - **Aliases:** *(none)*
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** I love you like the sun loves the moon, forever separated by thousands of miles for thousands of years. He died every night just to let her breathe. The sun and moon love each other without any hope of meeting ever. Live by the sun This command was created by ?460987842961866762?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1902,7 +1902,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `teddy`
 - **Aliases:** *(none)*
-- **Description:** Give two teddy bears to someone! You can only gain one if you receive it!
+- **Description:** Give two teddy bears to someone! You can only gain one if you receive it! This command was created by ?625340848556474369?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1911,7 +1911,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `tequila`
 - **Aliases:** *(none)*
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** This item can only be given out by the creator. This command was created by ?427296171883626496?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1919,7 +1919,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `totoro`
 - **Aliases:** *(none)*
-- **Description:** "Try Laughing. Then Whatever Scares You Will Go Away”. We hope this Forest Spirit never lets you feel alone!
+- **Description:** "Try Laughing. Then Whatever Scares You Will Go Away”. We hope this Forest Spirit never lets you feel alone! This command was created by ?777641801212493826?, ?193140307326402562?, and ?942100445105647686?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1937,7 +1937,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `turnip`
 - **Aliases:** *(none)*
-- **Description:** ${desc} This command was created by ${ownersString}
+- **Description:** Turnips are the lifeblood of the Nook family Fortune, if you would like one you must find it's creator ?owner?. This command was created by ?145541256779530240?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
@@ -1945,7 +1945,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `unicorn`
 - **Aliases:** *(none)*
-- **Description:** The unicorn is a legendary creature with a single large, pointed, spiraling horn projecting from its forehead.
+- **Description:** The unicorn is a legendary creature with a single large, pointed, spiraling horn projecting from its forehead. This command was created by ?384202884553768961?, and ?778204442411008021?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1955,7 +1955,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `vert`
 - **Aliases:** *(none)*
-- **Description:** Send a vert to someone!
+- **Description:** Send a vert to someone! This command was created by ?963635559266390066?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1973,7 +1973,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `witch`
 - **Aliases:** *(none)*
-- **Description:** “Double, double toil and trouble; fire burn and cauldron bubble!”
+- **Description:** “Double, double toil and trouble; fire burn and cauldron bubble!” This command was created by ?665648471340220430?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** 🔒 Patreon Owner Only (giving)
 - **Group(s):** `patreon`
@@ -1982,7 +1982,7 @@ Commands with `owner: true`, `admin: true`, `manager: true`, or `helper: true` a
 
 #### `wolf`
 - **Aliases:** *(none)*
-- **Description:** Give a wolf to a friend!
+- **Description:** Give a wolf to a friend! This command was created by ?384202884553768961?
 - **Cooldown:** 15000 ms (15s)
 - **Access:** Public
 - **Group(s):** `patreon`
